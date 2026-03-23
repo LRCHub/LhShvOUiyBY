@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "あの子は宝石を食べている",
   "base_artist": "くしゃみ。。",
-  "createdAt": "2026-02-15T15:48:02.361106Z",
+  "createdAt": "2026-03-23T05:41:45.931857Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "くしゃみ。。",
       "has_synced": false,
       "path": "select/pl_01_あの子は宝石を食べている_くしゃみ。。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "あの子は宝石を食べている",
+      "artist": "くしゃみ。。",
+      "has_synced": false,
+      "path": "select/localdb_01_あの子は宝石を食べている_くしゃみ。。.txt",
+      "repo_name": "LhShvOUiyBY"
     }
   ]
 }
